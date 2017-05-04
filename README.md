@@ -5,7 +5,8 @@ Just a little random joke generator, you can cycle through them all by typing "y
 
 
 
-```import java.util.List;
+```
+import java.util.List;
 import java.util.Scanner;
 import java.util.Random;
 
